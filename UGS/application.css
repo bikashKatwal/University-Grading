@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.TopHBox{
+	 -fx-border-color: rgb(235.0,235.0,235.0) ;
+    -fx-border-width: 1.0 ; 
+    -fx-border-style: solid outside  ;
+     -fx-padding: 10.0,0.0,0.0,0.0;
+}
+
+.validation-error {
+    -fx-text-box-border: #DBB1B1 ;
+    -fx-control-inner-background: #FFF0F0 ;
+    -fx-focus-color: #FF2020 ;
+    -fx-faint-focus-color: #FF202020 ;
+  }
+  /*fill the color of label that displays information for invalid inputs*/
+  .error-font{
+  	-fx-text-fill: red;
+  }
+  /*Footer color */
+  .hBoxBackGroundColor{
+  	-fx-background-color: #336699;
+  }

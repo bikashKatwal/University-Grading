@@ -1,0 +1,3 @@
+user=root
+pass=Bik@sh123
+dbUrl = jdbc:mysql://localhost:3306/gradeprocess
